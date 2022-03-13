@@ -1,6 +1,6 @@
 # passengerCounterapp2022
 
-**passengerCounterapp2022** is a web app that allows a user count passenger entering somewhere.
+**passengerCounterapp2022** is a web app that allows a user to count passenger entering somewhere.
 
 It's a work that I had to done with the Scrimba JavaScript Course. 
 
