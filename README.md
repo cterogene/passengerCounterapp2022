@@ -8,7 +8,7 @@ It's a work that I had to done with the Scrimba JavaScript Course.
 
 Here's a walkthrough of implemented user stories:
 
-<img src='passengercounter.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='passengercounter1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGif].
 
