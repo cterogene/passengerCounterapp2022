@@ -30,3 +30,9 @@ button{
 #increment-btn{
     background: darkred;
 }
+#save-btn{
+    background: green;
+}
+#p{
+    font-size: bold;
+}
